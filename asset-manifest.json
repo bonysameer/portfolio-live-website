@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-live-website/static/css/main.88365de6.css",
+    "main.js": "/portfolio-live-website/static/js/main.aa913e71.js",
+    "static/media/dribbb.gif": "/portfolio-live-website/static/media/dribbb.bd52b22a2e78bed0a830.gif",
+    "static/media/avtar4.jpg": "/portfolio-live-website/static/media/avtar4.f42022b991b6653c82bf.jpg",
+    "static/media/portfolio__receipe__app.png": "/portfolio-live-website/static/media/portfolio__receipe__app.3df5b38b2efd51a67d6a.png",
+    "static/media/avtar3.jpg": "/portfolio-live-website/static/media/avtar3.cfe9f79c746ba3002568.jpg",
+    "static/media/tindog-pic.jpg": "/portfolio-live-website/static/media/tindog-pic.fd322aff2292d00e0cf5.jpg",
+    "static/media/amazonclone.png": "/portfolio-live-website/static/media/amazonclone.a24a6a183f26ae124581.png",
+    "static/media/sorting-visualizer.jpg": "/portfolio-live-website/static/media/sorting-visualizer.c491d1cefa31f3406fe0.jpg",
+    "static/media/avtar2.jpg": "/portfolio-live-website/static/media/avtar2.d4b67e4e0511adbfbd2c.jpg",
+    "static/media/avtar1.jpg": "/portfolio-live-website/static/media/avtar1.2a8320afb57372d63d94.jpg",
+    "static/media/Resume-bony-sameer.pdf": "/portfolio-live-website/static/media/Resume-bony-sameer.ad0e94ebf8a4303d8839.pdf",
+    "static/media/bony1.png": "/portfolio-live-website/static/media/bony1.f424f102fe1b7301f189.png",
+    "static/media/web-development-logo2.png": "/portfolio-live-website/static/media/web-development-logo2.44cbbdca7b627b17913e.png",
+    "static/media/portfolio6.jpg": "/portfolio-live-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/content-creation-logo.png": "/portfolio-live-website/static/media/content-creation-logo.2c36d978dcc4092d6d73.png",
+    "static/media/ux-ui_logo.png": "/portfolio-live-website/static/media/ux-ui_logo.4a79b72d0b67db5e6c78.png",
+    "static/media/hire-me-logo.jpg": "/portfolio-live-website/static/media/hire-me-logo.f6c17bdf7dfc2da19c7f.jpg",
+    "index.html": "/portfolio-live-website/index.html",
+    "main.88365de6.css.map": "/portfolio-live-website/static/css/main.88365de6.css.map",
+    "main.aa913e71.js.map": "/portfolio-live-website/static/js/main.aa913e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88365de6.css",
+    "static/js/main.aa913e71.js"
+  ]
+}
